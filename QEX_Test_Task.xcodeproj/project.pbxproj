@@ -15,6 +15,7 @@
 		623FF7C926625734000A0829 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 623FF7C726625734000A0829 /* LaunchScreen.storyboard */; };
 		623FF7D426625734000A0829 /* QEX_Test_TaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623FF7D326625734000A0829 /* QEX_Test_TaskTests.swift */; };
 		623FF7DF26625734000A0829 /* QEX_Test_TaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 623FF7DE26625734000A0829 /* QEX_Test_TaskUITests.swift */; };
+		62D7B9C02664DD06007FC3CB /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 62D7B9BF2664DD06007FC3CB /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		623FF7DA26625734000A0829 /* QEX_Test_TaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QEX_Test_TaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		623FF7DE26625734000A0829 /* QEX_Test_TaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QEX_Test_TaskUITests.swift; sourceTree = "<group>"; };
 		623FF7E026625734000A0829 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		62D7B9BF2664DD06007FC3CB /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		623FF7B026625733000A0829 = {
 			isa = PBXGroup;
 			children = (
+				62D7B9BF2664DD06007FC3CB /* .gitignore */,
 				623FF7BB26625733000A0829 /* QEX_Test_Task */,
 				623FF7D226625734000A0829 /* QEX_Test_TaskTests */,
 				623FF7DD26625734000A0829 /* QEX_Test_TaskUITests */,
@@ -247,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62D7B9C02664DD06007FC3CB /* .gitignore in Resources */,
 				623FF7C926625734000A0829 /* LaunchScreen.storyboard in Resources */,
 				623FF7C626625733000A0829 /* Assets.xcassets in Resources */,
 				623FF7C426625733000A0829 /* Calculator.storyboard in Resources */,
